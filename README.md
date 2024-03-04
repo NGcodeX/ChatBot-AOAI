@@ -1,4 +1,5 @@
-# [Artificial Intelligence EXAM] My Chat App with AOAI
+# NGcodeX Chat App with Azure OpenAI
+### Link in prod: [codeurzebs-chatgpt.azurewebsites.net](https://codeurzebs-chatgpt.azurewebsites.net)
 
 This repo contains  code for a simple chat webapp that integrates with Azure OpenAI. Note: some portions of the app use preview APIs.
 
